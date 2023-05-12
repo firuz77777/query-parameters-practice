@@ -1,5 +1,5 @@
 import requests
-
+import json
 
 class RandomUser:
     def __init__(self) -> None:
@@ -15,7 +15,20 @@ class RandomUser:
         Returns:
             list: lsit of users
         '''
-        pass
+        payload = {'results': n}
+        response = requests.get(url=self.url, params=payload)
+
+        if response.status_code == 200:
+            return response.json()
+        
+        return False
+    
+    def write_data_to_file(self, file_path: str, n: int):
+        with open(file_path, mode='w') as f:
+            data = self.get_randomusers(n)
+            str_data = json.dumps(data, indent=4)
+            f.write(str_data)
+
     
     def get_user_by_gender(self, gender: str) -> dict:
         '''return specify whether only male or only female users generated.\
@@ -27,7 +40,13 @@ class RandomUser:
         Returns:
             str: user
         '''
-        pass
+        payload = {'gender': gender}
+        response = requests.get(url=self.url, params=payload)
+
+        if response.status_code == 200:
+            return response.json()
+        
+        return False
     
     def get_users_by_gender(self, n: int, gender: str) -> dict:
         '''return specify whether only male or only female users generated.\
@@ -93,3 +112,7 @@ class RandomUser:
             lsit: list of user data
         '''
         pass
+
+
+user = RandomUser()
+print(user.write_data_to_file(file_path='data.json', n=10))

@@ -1,0 +1,570 @@
+{
+    "results": [
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Julie",
+                "last": "Laurent"
+            },
+            "location": {
+                "street": {
+                    "number": 5486,
+                    "name": "Avenue du Ch\u00e2teau"
+                },
+                "city": "Dunkerque",
+                "state": "La R\u00e9union",
+                "country": "France",
+                "postcode": 48383,
+                "coordinates": {
+                    "latitude": "-19.1484",
+                    "longitude": "10.4872"
+                },
+                "timezone": {
+                    "offset": "+5:45",
+                    "description": "Kathmandu"
+                }
+            },
+            "email": "julie.laurent@example.com",
+            "login": {
+                "uuid": "779c8058-6a88-4ec5-bcf8-bbeeba2acd08",
+                "username": "lazypeacock770",
+                "password": "yahoo1",
+                "salt": "OGH5WwSV",
+                "md5": "e2b048c4b143dd3ba327930d72101320",
+                "sha1": "6a89ab26c3350be042e1acc27e29a3aea4b2325c",
+                "sha256": "cb417d8a679d1b699aa6e6d3a67606b536bace2b4fd629d34807ff8a51439e4e"
+            },
+            "dob": {
+                "date": "1997-03-31T22:46:02.372Z",
+                "age": 26
+            },
+            "registered": {
+                "date": "2020-06-16T03:27:32.504Z",
+                "age": 2
+            },
+            "phone": "04-16-78-05-29",
+            "cell": "06-50-06-16-43",
+            "id": {
+                "name": "INSEE",
+                "value": "2970295274294 08"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/70.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/70.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/70.jpg"
+            },
+            "nat": "FR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Allan",
+                "last": "Ramirez"
+            },
+            "location": {
+                "street": {
+                    "number": 1142,
+                    "name": "E Little York Rd"
+                },
+                "city": "Cape Fear",
+                "state": "Nebraska",
+                "country": "United States",
+                "postcode": 12921,
+                "coordinates": {
+                    "latitude": "-39.2079",
+                    "longitude": "154.4586"
+                },
+                "timezone": {
+                    "offset": "-9:00",
+                    "description": "Alaska"
+                }
+            },
+            "email": "allan.ramirez@example.com",
+            "login": {
+                "uuid": "90193a66-f84b-474e-af00-b11328062416",
+                "username": "brownfrog996",
+                "password": "williams",
+                "salt": "zlreA0uc",
+                "md5": "5deb56a00b066095a0d9ad2baf5b916c",
+                "sha1": "2ce2b8433f255f1520c33d7c70bd75ef51ca1cdf",
+                "sha256": "3fc24a2506baf5cf97555629c1b29c865646a5e3b22283b7705fa4211b1a8702"
+            },
+            "dob": {
+                "date": "1953-10-28T14:38:42.643Z",
+                "age": 69
+            },
+            "registered": {
+                "date": "2021-05-25T13:18:10.108Z",
+                "age": 1
+            },
+            "phone": "(480) 671-3523",
+            "cell": "(861) 731-7835",
+            "id": {
+                "name": "SSN",
+                "value": "338-36-5461"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/50.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/50.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/50.jpg"
+            },
+            "nat": "US"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Universina",
+                "last": "Silva"
+            },
+            "location": {
+                "street": {
+                    "number": 5029,
+                    "name": "Rua Dois"
+                },
+                "city": "Pouso Alegre",
+                "state": "Amazonas",
+                "country": "Brazil",
+                "postcode": 57425,
+                "coordinates": {
+                    "latitude": "89.7692",
+                    "longitude": "-58.4280"
+                },
+                "timezone": {
+                    "offset": "+5:30",
+                    "description": "Bombay, Calcutta, Madras, New Delhi"
+                }
+            },
+            "email": "universina.silva@example.com",
+            "login": {
+                "uuid": "0f34f2f8-5d18-4b25-935c-92a52bd6855d",
+                "username": "orangeostrich965",
+                "password": "oicu812",
+                "salt": "GtIYy4xx",
+                "md5": "8ce3a34a208ceca5ba135a4092aad2c2",
+                "sha1": "b61c494587eece5f36aeb83247e00528103e5e95",
+                "sha256": "db71570f8eb1f09bc14324a4a1f90bf15fe630ba0669441c3f336089d5ef2272"
+            },
+            "dob": {
+                "date": "1979-08-31T11:08:34.933Z",
+                "age": 43
+            },
+            "registered": {
+                "date": "2020-05-22T22:25:21.303Z",
+                "age": 2
+            },
+            "phone": "(69) 5810-8967",
+            "cell": "(61) 6793-4645",
+            "id": {
+                "name": "CPF",
+                "value": "313.959.996-02"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/32.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/32.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/32.jpg"
+            },
+            "nat": "BR"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Monsieur",
+                "first": "Torsten",
+                "last": "Fernandez"
+            },
+            "location": {
+                "street": {
+                    "number": 6214,
+                    "name": "Avenue Tony-Garnier"
+                },
+                "city": "Linescio",
+                "state": "Vaud",
+                "country": "Switzerland",
+                "postcode": 8631,
+                "coordinates": {
+                    "latitude": "-18.5601",
+                    "longitude": "65.3687"
+                },
+                "timezone": {
+                    "offset": "+5:00",
+                    "description": "Ekaterinburg, Islamabad, Karachi, Tashkent"
+                }
+            },
+            "email": "torsten.fernandez@example.com",
+            "login": {
+                "uuid": "87921fee-2b84-4b28-849d-6e56a8af9e5a",
+                "username": "heavyswan239",
+                "password": "hallowee",
+                "salt": "KTvOCySz",
+                "md5": "2f99efb4975252cff14db25432923466",
+                "sha1": "1f745fdcc3b34ba89d14e3ea51eff470735ccbfa",
+                "sha256": "ddd0ff84b0fa10fb4d36aa7f5f58db2d2c13186c2382b79871f1714f4dd2aee9"
+            },
+            "dob": {
+                "date": "1946-12-26T05:45:10.806Z",
+                "age": 76
+            },
+            "registered": {
+                "date": "2012-01-13T15:57:05.826Z",
+                "age": 11
+            },
+            "phone": "077 267 60 70",
+            "cell": "078 567 55 87",
+            "id": {
+                "name": "AVS",
+                "value": "756.2882.5000.82"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/90.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+            },
+            "nat": "CH"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Ms",
+                "first": "Zara",
+                "last": "Edwards"
+            },
+            "location": {
+                "street": {
+                    "number": 871,
+                    "name": "Riverside Drive"
+                },
+                "city": "Tauranga",
+                "state": "Canterbury",
+                "country": "New Zealand",
+                "postcode": 32582,
+                "coordinates": {
+                    "latitude": "77.6070",
+                    "longitude": "3.2988"
+                },
+                "timezone": {
+                    "offset": "+3:30",
+                    "description": "Tehran"
+                }
+            },
+            "email": "zara.edwards@example.com",
+            "login": {
+                "uuid": "d20deaba-2abf-4579-b942-5f9fefa0422f",
+                "username": "goldenwolf672",
+                "password": "australia",
+                "salt": "un9uKjqp",
+                "md5": "0cf935e2716be8fb85b71c39f1c0c24e",
+                "sha1": "f6b75068841a79c59c3111ff0390455dfb93805e",
+                "sha256": "0162fc7bf8a6b5454f297b62e9fe458f5ccdb74e5fb5180d81488f46f5f35449"
+            },
+            "dob": {
+                "date": "1966-09-03T10:32:22.315Z",
+                "age": 56
+            },
+            "registered": {
+                "date": "2002-07-24T17:09:14.174Z",
+                "age": 20
+            },
+            "phone": "(098)-586-1244",
+            "cell": "(969)-198-9947",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/42.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/42.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/42.jpg"
+            },
+            "nat": "NZ"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Geruza",
+                "last": "Sales"
+            },
+            "location": {
+                "street": {
+                    "number": 4688,
+                    "name": "Rua Vinte de Setembro"
+                },
+                "city": "Petr\u00f3polis",
+                "state": "S\u00e3o Paulo",
+                "country": "Brazil",
+                "postcode": 42645,
+                "coordinates": {
+                    "latitude": "-36.7137",
+                    "longitude": "63.6071"
+                },
+                "timezone": {
+                    "offset": "+11:00",
+                    "description": "Magadan, Solomon Islands, New Caledonia"
+                }
+            },
+            "email": "geruza.sales@example.com",
+            "login": {
+                "uuid": "918ea9b5-a76b-4667-9207-ed84aba0b0b8",
+                "username": "redtiger345",
+                "password": "hayley",
+                "salt": "rfwUnbKq",
+                "md5": "71a8f179c73227184802f04898771ee5",
+                "sha1": "bc60f2233bb24e9387de71f1bf5790b031b849ff",
+                "sha256": "f6f027856a8edd146ae286a81de122a21d12096ffa123cf578f1786b16663b7c"
+            },
+            "dob": {
+                "date": "1972-05-29T20:13:23.560Z",
+                "age": 50
+            },
+            "registered": {
+                "date": "2007-11-16T15:24:51.621Z",
+                "age": 15
+            },
+            "phone": "(38) 5964-3233",
+            "cell": "(55) 7147-5124",
+            "id": {
+                "name": "CPF",
+                "value": "023.924.415-01"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/82.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/82.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/82.jpg"
+            },
+            "nat": "BR"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Miss",
+                "first": "Miriam",
+                "last": "Ward"
+            },
+            "location": {
+                "street": {
+                    "number": 568,
+                    "name": "College St"
+                },
+                "city": "Mobile",
+                "state": "Nevada",
+                "country": "United States",
+                "postcode": 21279,
+                "coordinates": {
+                    "latitude": "31.5595",
+                    "longitude": "87.9654"
+                },
+                "timezone": {
+                    "offset": "+9:00",
+                    "description": "Tokyo, Seoul, Osaka, Sapporo, Yakutsk"
+                }
+            },
+            "email": "miriam.ward@example.com",
+            "login": {
+                "uuid": "99db3cd4-8000-4d3c-bf2d-91cc2453f592",
+                "username": "bluepanda363",
+                "password": "retire",
+                "salt": "q5kSwKEG",
+                "md5": "330d2c722a78d935332c31adf1ebcce6",
+                "sha1": "fd197c74d085e4cf20e62e112372d51b78dabb36",
+                "sha256": "c2fd7ce1905b2492f02332502eed2fd0da49c6eccc2dc02c6c0ee0a6a6c20b85"
+            },
+            "dob": {
+                "date": "1949-10-23T19:06:49.557Z",
+                "age": 73
+            },
+            "registered": {
+                "date": "2015-06-04T10:59:14.309Z",
+                "age": 7
+            },
+            "phone": "(987) 219-0589",
+            "cell": "(268) 234-4834",
+            "id": {
+                "name": "SSN",
+                "value": "767-02-1888"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/36.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/36.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/36.jpg"
+            },
+            "nat": "US"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Rushil",
+                "last": "Prabhu"
+            },
+            "location": {
+                "street": {
+                    "number": 2473,
+                    "name": "Rajpath"
+                },
+                "city": "Imphal",
+                "state": "Bihar",
+                "country": "India",
+                "postcode": 17991,
+                "coordinates": {
+                    "latitude": "-41.2987",
+                    "longitude": "-91.3997"
+                },
+                "timezone": {
+                    "offset": "+3:00",
+                    "description": "Baghdad, Riyadh, Moscow, St. Petersburg"
+                }
+            },
+            "email": "rushil.prabhu@example.com",
+            "login": {
+                "uuid": "15ea6060-ed8d-4a24-b6f9-e1edff7c1a5e",
+                "username": "bigleopard598",
+                "password": "toomuch",
+                "salt": "nKojPyxD",
+                "md5": "886bdd027c767669074377bae9ab8bdf",
+                "sha1": "afd16571770753bf7a9a68ec6315b01eae0788fb",
+                "sha256": "095d39a87397fec8ff68b82c9c17ec4e157ed761f9dc0f5ae2716a663e6507c6"
+            },
+            "dob": {
+                "date": "1995-07-09T22:09:19.874Z",
+                "age": 27
+            },
+            "registered": {
+                "date": "2015-04-02T00:35:29.410Z",
+                "age": 8
+            },
+            "phone": "8836112865",
+            "cell": "7410056459",
+            "id": {
+                "name": "UIDAI",
+                "value": "398265667114"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/46.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/46.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/46.jpg"
+            },
+            "nat": "IN"
+        },
+        {
+            "gender": "female",
+            "name": {
+                "title": "Mrs",
+                "first": "Fr\u00f8ydis",
+                "last": "Amini"
+            },
+            "location": {
+                "street": {
+                    "number": 2407,
+                    "name": "Etterstadgata"
+                },
+                "city": "Svelvik",
+                "state": "Bergen",
+                "country": "Norway",
+                "postcode": "4619",
+                "coordinates": {
+                    "latitude": "-32.7317",
+                    "longitude": "179.6484"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "froydis.amini@example.com",
+            "login": {
+                "uuid": "7eaf5415-b309-446b-a474-d4e9f9743468",
+                "username": "crazykoala608",
+                "password": "cheetah",
+                "salt": "jcmEzXCt",
+                "md5": "50f36dfb867be1caeb64f5ccd0b7de57",
+                "sha1": "2d594f972f4488f3a3fa9fb2b6d3cafee4eabe4b",
+                "sha256": "8a3ab9d5b58935f772e6274e367deb19e771d6c2f4538d8ae404ef892f22dcc7"
+            },
+            "dob": {
+                "date": "1948-01-08T09:03:28.071Z",
+                "age": 75
+            },
+            "registered": {
+                "date": "2005-08-31T09:00:50.953Z",
+                "age": 17
+            },
+            "phone": "54274480",
+            "cell": "40160732",
+            "id": {
+                "name": "FN",
+                "value": "08014845829"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/women/19.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/women/19.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/women/19.jpg"
+            },
+            "nat": "NO"
+        },
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Tuncay",
+                "last": "Van Engen"
+            },
+            "location": {
+                "street": {
+                    "number": 6090,
+                    "name": "De Schoefel"
+                },
+                "city": "Vlijmen",
+                "state": "Flevoland",
+                "country": "Netherlands",
+                "postcode": "0817 PC",
+                "coordinates": {
+                    "latitude": "7.1320",
+                    "longitude": "106.2551"
+                },
+                "timezone": {
+                    "offset": "+2:00",
+                    "description": "Kaliningrad, South Africa"
+                }
+            },
+            "email": "tuncay.vanengen@example.com",
+            "login": {
+                "uuid": "27c92370-45e4-4662-802f-abe1e019824e",
+                "username": "whitebear625",
+                "password": "python",
+                "salt": "yDIOFEpx",
+                "md5": "fc5e264bdda775273c86efd6bf61cc0a",
+                "sha1": "5387c7a29384684d4b348eb4b367db6f53bdbc3f",
+                "sha256": "64d20dd7d647ed4117078faca48ab40cf9b63dbbcc655eac5a8e0fc581bf6181"
+            },
+            "dob": {
+                "date": "1947-11-29T05:30:02.639Z",
+                "age": 75
+            },
+            "registered": {
+                "date": "2004-10-01T08:37:46.050Z",
+                "age": 18
+            },
+            "phone": "(0690) 193867",
+            "cell": "(06) 52951264",
+            "id": {
+                "name": "BSN",
+                "value": "59174160"
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/1.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+            },
+            "nat": "NL"
+        }
+    ],
+    "info": {
+        "seed": "f73d5fbea855c8fc",
+        "results": 10,
+        "page": 1,
+        "version": "1.4"
+    }
+}
